@@ -13,7 +13,7 @@ Image with ```kcov``` and ```shunit2``` to execute tests and generate a code cov
 [![License: BSD-3](https://img.shields.io/badge/license-BSD3-blue.svg)](https://github.com/supergarotinho/docker-bashtest/blob/master/LICENSE)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
-> Built with ❤︎ by [Anderson Santos](https://br.linkedin.com/in/andersonrss) and [contributors](https://github.com/supergarotinho/repo_checklist/graphs/contributors)
+> Built with ❤︎ by [Anderson Santos](https://br.linkedin.com/in/andersonrss) and [contributors](https://github.com/supergarotinho/docker-bashtest/graphs/contributors)
 
 ## Table of contents
 
@@ -58,7 +58,7 @@ docker run --rm \
 
 * **Anderson Santos** - *Initial work* - [supergarotinho](https://github.com/supergarotinho)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/supergarotinho/docker-bashtest/contributors) who participated in this project.
 
 ## License
 
