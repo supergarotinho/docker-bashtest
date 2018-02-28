@@ -13,6 +13,8 @@ Image with ```kcov``` and ```shunit2``` to execute tests and generate a code cov
 [![License: BSD-3](https://img.shields.io/badge/license-BSD3-blue.svg)](https://github.com/supergarotinho/docker-bashtest/blob/master/LICENSE)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
+> Built with ❤︎ by [Anderson Santos](https://br.linkedin.com/in/andersonrss) and [contributors](https://github.com/supergarotinho/repo_checklist/graphs/contributors)
+
 ## Table of contents
 
 - [Features](#features)
