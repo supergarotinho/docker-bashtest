@@ -6,8 +6,8 @@ Image with ```kcov``` and ```shunit2``` to execute tests and generate a code cov
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/supergarotinho/docker-bashtest/blob/master/LICENSE)
 [![Build Status](https://dockerbuildbadges.quelltext.eu/status.svg?organization=supergarotinho&repository=bashtest)](https://hub.docker.com/r/supergarotinho/bashtest/)
-[![Docker Stars](https://img.shields.io/docker/stars/supergarotinho/bashtest.svgs)](https://hub.docker.com/r/supergarotinho/bashtest/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/supergarotinho/bashtest.svgs)](https://hub.docker.com/r/supergarotinho/bashtest/)
+[![Docker Stars](https://img.shields.io/docker/stars/supergarotinho/bashtest.svg)](https://hub.docker.com/r/supergarotinho/bashtest/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/supergarotinho/bashtest.svg)](https://hub.docker.com/r/supergarotinho/bashtest/)
 [![License: BSD-3](https://img.shields.io/badge/license-BSD3-blue.svg)](https://github.com/supergarotinho/docker-bashtest/blob/master/LICENSE)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
