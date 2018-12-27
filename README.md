@@ -1,6 +1,6 @@
 # Docker bash tests &nbsp; [![Tweet](https://camo.githubusercontent.com/83d4084f7b71558e33b08844da5c773a8657e271/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f687474702f736869656c64732e696f2e7376673f7374796c653d736f6369616c)](https://twitter.com/intent/tweet?text=Execute%20and%20generate%20bash%20testing%20report%20with%20supergarotinho%2Fbashtest%20image!&amp;url=https://www.gruponeuro.com.br&amp;via=supergarotinho&amp;hashtags=docker,bash,test,testing,report,coverage,shunit2,kcov)
 
-**Fun programming with bash and docker**
+**Fun programming with bash and docker!**
 
 
 Image with ```kcov``` and ```shunit2``` to execute tests and generate a code coverage report.
